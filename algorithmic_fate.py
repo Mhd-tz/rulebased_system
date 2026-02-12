@@ -1,1 +1,0 @@
-##This is the algorithmic fate of the world. It is a simple algorithm that takes in the current state of the world and outputs the future state of the world.
